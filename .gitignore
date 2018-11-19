@@ -1,2 +1,5 @@
 .ipynb_checkpoints/
 *.pyc
+nohup_log/
+shapemapper_temp/
+shapemapper_log.txt
